@@ -1,0 +1,352 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(shoe.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: right 0.5%;
+    
+}
+
+
+
+ul{
+    background-color: transparent;
+    padding: 20px;
+    margin: 0px;
+}
+
+
+li{
+    padding: 20px;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-left{
+    font-size: larger;
+    font-weight: bolder;
+    position: absolute;
+    left: 3.5%;
+
+}
+
+.nav-right{
+    font-size: small;
+    float: right;
+    
+    
+}
+
+#nav-right{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: -0.5%;
+    background-color: #c40055;
+    color: white;
+}
+
+.companyname{
+    font-size: 70px;
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
+
+.left-side-box{
+    position: absolute;
+    top: 60%;
+    left: 5%;
+}
+
+.left-side-box1{
+    border: none;
+    border-radius: 5px;
+    padding:10px ;
+    background: #c40055;
+    color: white;
+}
+
+.left-side-box2{
+    border: none;
+    border-radius: 5px;
+    padding:10px ;
+}
+
+
+.title{
+    position: absolute;
+    left: 35%;
+    top: 100%;
+    font-size: 25px;
+
+}
+
+.sub-tittle{
+    font-size: 20px;
+    margin: -5%;
+    text-align: center;
+}
+
+.box1{
+    height: 3%;
+    width: 1.5%;
+    border: solid 1px;
+    padding: 2px;
+    position: absolute;
+    left: 42%;
+    top: 130%;
+    text-align: center;
+    
+    
+}
+
+.box-wrapper{
+    position: absolute;
+    left: 42%;
+    top: 135%;
+}
+
+
+.box2{
+    height: 3%;
+    width: 1.5%;
+    border: solid 1px;
+    padding: 2px;
+    position: absolute;
+    left: 65%;
+    top: 130%;
+    text-align: center;
+}
+
+.box-wrapper2{
+    position: absolute;
+    left: 65%;
+    top: 135%;
+}
+
+.box3{
+    height: 3%;
+    width: 1.5%;
+    border: solid 1px;
+    padding: 2px;
+    position: absolute;
+    left: 42%;
+    top: 160%;
+    text-align: center;
+}
+
+.box-wrapper3{
+    position: absolute;
+    left: 42%;
+    top: 165%;
+}
+
+.BOOK-ONLINE-NOW{
+    border: none;
+    border-radius: 5px;
+    height: 15px;
+    width: 13%;
+    text-align: center;
+    padding: 1%;
+    background: #c40055;
+    color: white;
+    position: absolute;
+    top: 200%;
+    left: 55%;
+
+}
+
+.title2{
+    position: absolute;
+    left: 30%;
+    top: 220%;
+    font-size: 50px;
+}
+
+.man{
+    position: absolute;
+    top: 245%;
+    left: 25%;
+}
+
+.man-quote{
+    font-weight: bolder;
+    font-size: larger;
+    position: absolute;
+    left: 45%;
+    top: 270%;
+}
+
+.woman{
+    position: absolute;
+    top: 245%;
+    left: 75.5%;
+}
+
+.man-name{
+    position: absolute;
+    left: 45%;
+    top: 292.5%;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.man-job{
+    position: absolute;
+    left: 45%;
+    top: 297%;
+    font-size: small;
+
+}
+
+.section3{
+    position: absolute;
+    left: 32%;
+    top: 325%;
+}
+
+.location{
+    font-size: 50px;
+}
+
+.location-visit{
+    margin: -40px;
+    font-size: 20px;
+    position: absolute;
+    left: 30%;
+}
+
+.map{
+    max-height: 614px;
+    position: absolute;
+    top: 365%;
+
+}
+
+#location-tag1{
+    color: #c40055;
+    position: absolute;
+    left: -10%;
+    top: 25%;
+}
+
+.address1{
+    position: absolute;
+    left: 10%;
+    top: 350%;
+}
+
+#location-tag2{
+    color: #c40055;
+    position: absolute;
+    left: -10%;
+    top: 25%;
+}
+
+.address2{
+    position: absolute;
+    left: 35%;
+    top: 350%;
+}
+
+#location-tag3{
+    color: #c40055;
+    position: absolute;
+    left: -10%;
+    top: 25%;
+}
+
+.address3{
+    position: absolute;
+    left: 65%;
+    top: 350%;
+}
+
+.side-navbar{
+    position: absolute;
+    left: 5%;
+    top: 135%;
+    font-size: 25px;
+    width: 25%;
+}
+
+.side-navbar1{
+    background-color: black;
+    padding: 3%;
+
+}
+
+.side-navbar2{
+    margin: 20px;
+}
+
+.side-navbar3{
+    margin: 20px;
+}
+
+
+.order-book{
+    color: white;
+}
+
+#earth-africa{
+    color: white;
+}
+
+#location-tag, #fa-phone{
+    color: #c40055;
+}
+
+.black-box{
+    background-color: black;
+    height: 450px;
+    width: 1349px;
+    position: relative;
+    top: 2885px;
+     
+}
+
+.list{
+    color: #FFFFFF;
+    opacity: 0.75;
+    padding-left: 5%;
+}
+
+.Layers-2{
+    line-height: 4;
+    position: relative;
+    left: 50px;
+    font-size: 25px;
+}
+
+.opening{
+    line-height: 5;
+}
+
+.address-1{
+    line-height: 2;
+}
+
+.shoerevamp{
+    color: #FFFFFF;
+    opacity: 0.75;
+}
+
+.list-2{
+    color: #FFFFFF;
+    opacity: 0.75;
+    padding-left: 50%;
+    position: absolute;
+    bottom: -5%;
+}
+
+.c1{
+    display: grid;
+
+}
